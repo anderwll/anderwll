@@ -13,7 +13,23 @@
 - 👁️‍🗨️ CSS, Bootstrap
 - 🧩 NodeJS
 
-<h1>Contato</h1>
+<h1>Contatos</h1>
 
 - <a href="www.linkedin.com/in/anderson-wilmsen-675a48218/">Linkedin</a>
 - <a href="ander.wilmsen98@gmail.com">Email</a>
+
+<div align="center">
+  <a href="https://github.com/anderwll">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anderwll&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderwll&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
+    
+##
+  
+<div> 
+  <a href="https://wa.me/5551981061122?text=Se desejar, faça contato via WhatsApp" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/anderwll/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:ander.wilmsen98@gmail.com"><img src="https://img.shields.io/badge/-outlook-%23333?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
+  
+  ![Snake animation](https://github.com/flavio198/flavio198/blob/output/github-contribution-grid-snake.svg)
+</div>
