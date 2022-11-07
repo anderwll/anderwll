@@ -4,7 +4,7 @@
   
 - 🤓 Estou na 10ª Edição do Programa Starter da Growdev para me tornar um web developer fullstack!
 - 👨‍🎓 Cursei Eletricista de Manutenção Eletroeletronica pelo SENAI/Garibaldi.
-- 🔭 Tenho como hobbies codar, jogar online e futebol.
+- 🔭 Tenho como hobbies: codar, jogar cs e futebol.
 
 <h1>Skills</h1>
 
