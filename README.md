@@ -10,7 +10,7 @@
 
 - 💻 HTML5, JavaScript, TypeScript
 - 👁️‍🗨️ CSS, Bootstrap
-- 🧩 NodeJS
+- 🧩 NodeJS, ReactJS
 
 ##
 
