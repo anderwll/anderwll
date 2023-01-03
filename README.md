@@ -9,7 +9,7 @@
 <h1>Skills</h1>
 
 - 💻 HTML5, JavaScript, TypeScript
-- 👁️‍🗨️ CSS, Bootstrap
+- 👁️‍🗨️ CSS, Bootstrap, Mui Material
 - 🧩 NodeJS, ReactJS
 
 ##
