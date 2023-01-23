@@ -2,14 +2,14 @@
   
   <h3>Eu sou o Anderson!</h3>
   
-- 🤓 Estou na 8ª Edição do Programa Starter da Growdev para me tornar um web developer fullstack!
+- 🤓 Estou na 10ª Edição do Programa Starter da Growdev para me tornar um Web Developer Fullstack!
 - 👨‍🎓 Cursei Eletricista de Manutenção Eletroeletronica pelo SENAI/Garibaldi.
 - 🔭 Tenho como hobbies: codar, jogar cs e futebol.
 
 <h1>Skills</h1>
 
 - 💻 HTML5, JavaScript, TypeScript
-- 👁️‍🗨️ CSS, Bootstrap, Mui Material
+- 👁️‍🗨️ CSS, Bootstrap, MUI Material
 - 🧩 NodeJS, ReactJS
     
 ##
