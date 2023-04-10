@@ -9,7 +9,7 @@
 
 - 💻 HTML5, JavaScript, TypeScript
 - 👁️‍🗨️ CSS, Bootstrap, MUI Material
-- 🧩 NodeJS, ReactJS
+- 🧩 NodeJS, ReactJS, NextJS
     
 ##
   
