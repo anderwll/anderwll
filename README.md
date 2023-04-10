@@ -10,6 +10,7 @@
 - 💻 HTML5, JavaScript, TypeScript
 - 👁️‍🗨️ CSS, Bootstrap, MUI Material
 - 🧩 NodeJS, ReactJS, NextJS
+- 🏦 PostgresSQL, TypeORM
     
 ##
   
