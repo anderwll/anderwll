@@ -2,7 +2,7 @@
   
   <h3>Eu sou o Anderson!</h3>
   
-- 🤓 Estou na 10ª Edição do Programa Starter da Growdev para me tornar um Web Developer Fullstack!
+- 🤓 Sou desenvolvedor Web Full Stack, atuo como tech helper e no desenvolvimento web.
 - 🔭 Tenho como hobbies: codar, jogar cs e futebol.
 
 <h1>Skills</h1>
