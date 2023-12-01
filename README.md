@@ -1,9 +1,9 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="450px" max-width="450px" width="450px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="420px" max-width="420px" width="420px" align="right">
 
 <h1> Hello Fellow < Developers / >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
 <p align="left"> 
-  Hello, my name is Anderson Wilmsen. </br> 
+  Hi, my name is Anderson Wilmsen. </br> 
   I am a <strong>FULL STACK WEB DEVELOPER</strong>. </br> 
   I work as a Tech Helper in Training Programs and in the Software Development Team, at <a href="https://www.growdev.com.br/" target="_blank">@Growdev</a>
 </p>
