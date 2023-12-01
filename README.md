@@ -10,6 +10,7 @@
 
 <h1>Languages and Tools:</h1>
 
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
@@ -24,9 +25,17 @@
     
 ##
 
-[![card](https://github-readme-stats.vercel.app/api?username=anderwll&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
-[![anderwll](https://github-readme-stats.vercel.app/api/top-langs/?username=anderwll&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  
+  [![anderwll](https://github-readme-stats.vercel.app/api?username=anderwll&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![anderwll](https://github-readme-stats.vercel.app/api/top-langs/?username=anderwll&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
+
+
 
 ##
 
@@ -45,12 +54,17 @@
   />
 </picture>
 
+<br>
+<br>
+
 <div align="center"> 
   <a href="https://wa.me/5551997960629?text=Se desejar, faça contato via WhatsApp" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/anderwll/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ander.wilmsen98@gmail.com"><img src="https://img.shields.io/badge/-gmail-%23333?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/anderson-wilmsen-675a48218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+
 
 
 
