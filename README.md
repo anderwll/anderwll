@@ -1,24 +1,41 @@
-<h1>Olá 👋</h1>
-  
-  <h3>Eu sou o Anderson!</h3>
-  
-- 🤓 Sou desenvolvedor Web Full Stack, atuo como tech helper e no desenvolvimento web.
-- 🔭 Tenho como hobbies: codar, jogar cs e futebol.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<h1>Skills</h1>
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
-- 💻 HTML5, JavaScript, TypeScript
-- 👁️‍🗨️ CSS, Bootstrap, MUI Material
-- 🧩 NodeJS, ReactJS, NextJS
-- 🏦 PostgresSQL, TypeORM
+<p align="left"> 
+  Hello, my name is Anderson Wilmsen. </br> 
+  I am a <strong>FULL STACK WEB DEVELOPER</strong>. </br> 
+  I work as a Tech Helper in Training Programs and in the Software Development Team, at <a href="https://www.growdev.com.br/" target="_blank">@Growdev</a>
+</p>
+
+<h1>Languages and Tools:</h1>
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+</div>
     
 ##
-  
+
+[![card](https://github-readme-stats.vercel.app/api?username=anderwll&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![anderwll](https://github-readme-stats.vercel.app/api/top-langs/?username=anderwll&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+![Snake animation](https://github.com/flavio198/flavio198/blob/output/github-contribution-grid-snake.svg)
+
 <div align="center"> 
   <a href="https://wa.me/5551997960629?text=Se desejar, faça contato via WhatsApp" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/anderwll/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ander.wilmsen98@gmail.com"><img src="https://img.shields.io/badge/-gmail-%23333?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/anderson-wilmsen-675a48218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-  ![Snake animation](https://github.com/flavio198/flavio198/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+
+
