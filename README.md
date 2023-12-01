@@ -28,7 +28,22 @@
 
 [![anderwll](https://github-readme-stats.vercel.app/api/top-langs/?username=anderwll&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-![Snake animation](https://github.com/flavio198/flavio198/blob/output/github-contribution-grid-snake.svg)
+##
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 <div align="center"> 
   <a href="https://wa.me/5551997960629?text=Se desejar, faça contato via WhatsApp" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
