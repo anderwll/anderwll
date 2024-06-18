@@ -5,7 +5,7 @@
 <p align="left"> 
   Hi, my name is Anderson Wilmsen. </br> 
   I am a <strong>FULL STACK WEB DEVELOPER</strong>. </br> 
-  I work as a Tech Helper in Training Programs and in the Software Development Team, at <a href="https://www.growdev.com.br/" target="_blank">@Growdev</a>
+  I work as Mentor in Training Programs and in the Software Development Team, at <a href="https://www.growdev.com.br/" target="_blank">@Growdev</a>
 </p>
 
 <h1>Languages and Tools:</h1>
